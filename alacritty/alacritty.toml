@@ -1,0 +1,12 @@
+[window]
+    decorations = "Buttonless"
+    startup_mode = "Maximized"
+
+[font]
+    size = 18.0
+    normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+
+[debug]
+    render_timer = true
+    # highlight_damage = true
+
