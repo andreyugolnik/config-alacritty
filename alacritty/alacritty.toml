@@ -13,3 +13,16 @@ normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 # render_timer = true
 # highlight_damage = true
 
+[keyboard]
+bindings = [
+    { key = "Key1", mods = "Alt", chars = "\u001b1" },
+    { key = "Key2", mods = "Alt", chars = "\u001b2" },
+    { key = "Key3", mods = "Alt", chars = "\u001b3" },
+    { key = "Key4", mods = "Alt", chars = "\u001b4" },
+    { key = "Key5", mods = "Alt", chars = "\u001b5" },
+    { key = "Key6", mods = "Alt", chars = "\u001b6" },
+    { key = "Key7", mods = "Alt", chars = "\u001b7" },
+    { key = "Key8", mods = "Alt", chars = "\u001b8" },
+    { key = "Key9", mods = "Alt", chars = "\u001b9" },
+]
+
