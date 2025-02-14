@@ -15,6 +15,10 @@ normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 # highlight_damage = true
 print_events = true
 
+# [terminal.shell]
+# program = "/bin/zsh"
+# args = ["-l" , "-c", "tmux attach || tmux" ]
+
 [keyboard]
 bindings = [
     { key = "Key1", mods = "Alt", chars = "\u001b1" },
