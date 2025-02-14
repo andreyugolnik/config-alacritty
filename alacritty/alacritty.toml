@@ -4,6 +4,7 @@ TERM = "xterm-256color"
 [window]
 decorations = "Buttonless"
 startup_mode = "Maximized"
+dynamic_padding = true
 
 [font]
 size = 18.0
