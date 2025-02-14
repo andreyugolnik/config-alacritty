@@ -13,6 +13,7 @@ normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 [debug]
 # render_timer = true
 # highlight_damage = true
+print_events = true
 
 [keyboard]
 bindings = [
